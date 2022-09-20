@@ -1,5 +1,6 @@
 <h1 id="fsage">NaN</h1>
 <script>
+
   var today = new Date();
   var birthDate = new Date(dateString);
   var age = today.getFullYear() - birthDate.getFullYear();
