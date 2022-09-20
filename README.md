@@ -1,1 +1,1 @@
-<a title="Tomruen (talk) at en.wikipedia, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:1_42_polytope_7-cube.svg"><img width="512" alt="1 42 polytope 7-cube" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1_42_polytope_7-cube.svg/512px-1_42_polytope_7-cube.svg.png"></a>
+<img width="512" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1_42_polytope_7-cube.svg/512px-1_42_polytope_7-cube.svg.png">
