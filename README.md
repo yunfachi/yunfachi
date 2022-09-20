@@ -1,1 +1,11 @@
-<img width="512" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/1_42_polytope_7-cube.svg/512px-1_42_polytope_7-cube.svg.png">
+<h1 id="fsage">NaN</h1>
+<script>
+  var today = new Date();
+  var birthDate = new Date(dateString);
+  var age = today.getFullYear() - birthDate.getFullYear();
+  var m = today.getMonth() - birthDate.getMonth();
+  if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+    age--;
+  }
+  document.getElementById("fsage").innerHTML = age;
+</script>
