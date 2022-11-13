@@ -9,16 +9,11 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
+  fill: #292d3e;
+  stroke: #ae81ce;
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
-}
-
-#gh-dark-mode-only:target #background {
-  fill: #0d1117;
-  stroke-width: 0.5px;
 }
 
 foreignObject {
@@ -32,17 +27,13 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
-}
-
-#gh-dark-mode-only:target h2 {
-  color: #c9d1d9;
-  fill: #c9d1d9;
+  color: #ae81ce;
+  fill: #ae81ce;
 }
 
 ul {
   list-style: none;
+  color: #a6accd;
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
@@ -71,56 +62,36 @@ div.ellipsis {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: #89ddff;
   margin-right: 0.5ch;
   vertical-align: top;
-}
-
-#gh-dark-mode-only:target .octicon {
-  color: #8b949e;
-  fill: #8b949e;
 }
 
 .progress {
   display: flex;
   height: 8px;
   overflow: hidden;
-  background-color: rgb(225, 228, 232);
+  background-color: #c792ea;
   border-radius: 6px;
   outline: 1px solid transparent;
   margin-bottom: 1em;
 }
 
-#gh-dark-mode-only:target .progress {
-  background-color: rgba(110, 118, 129, 0.4);
-}
-
 .progress-item {
-  outline: 2px solid rgb(225, 228, 232);
+  outline: 2px solid #c792ea;
   border-collapse: collapse;
-}
-
-#gh-dark-mode-only:target .progress-item {
-  outline: 2px solid #393f47;
 }
 
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: rgb(36, 41, 46);
-}
-
-#gh-dark-mode-only:target .lang {
-  color: #c9d1d9;
+  color: #a6accd;
 }
 
 .percent {
-  color: rgb(88, 96, 105)
+  color: #a6accd
 }
 
-#gh-dark-mode-only:target .percent {
-  color: #8b949e;
-}
 </style>
 <g>
 <rect x="5" y="5" id="background"/>
@@ -128,7 +99,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Languages Used (By File Size)</h2>
+<h2>Most Used Languages</h2>
 
 <div>
 <span class="progress">
