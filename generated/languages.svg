@@ -9,15 +9,15 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: #292d3e;
-  stroke: #c792ea;
+  fill: white;
+  stroke: rgb(225, 228, 232);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
 }
 
 #gh-dark-mode-only:target #background {
-  fill: #292d3e;
+  fill: #0d1117;
   stroke-width: 0.5px;
 }
 
@@ -32,13 +32,13 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: #c792ea;
-  fill: #c792ea;
+  color: rgb(36, 41, 46);
+  fill: rgb(36, 41, 46);
 }
 
 #gh-dark-mode-only:target h2 {
-  color: #c792ea;
-  fill: #c792ea;
+  color: #c9d1d9;
+  fill: #c9d1d9;
 }
 
 ul {
@@ -123,12 +123,12 @@ div.ellipsis {
 }
 </style>
 <g>
-<rect x="5" y="5" id="background" />
+<rect x="5" y="5" id="background"/>
 <g>
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Most Used Languages</h2>
+<h2>Languages Used (By File Size)</h2>
 
 <div>
 <span class="progress">
