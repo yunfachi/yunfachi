@@ -1,16 +1,21 @@
-<svg id="gh-dark-mode-only" width="360" height="210" xmlns="http://www.w3.org/2000/svg">
+<svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
 <style>
 svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 14px;
   line-height: 21px;
+
+  --title-color: #c792ea;
+  --icon-color: #89ddff;
+  --text-color: #a6accd;
+  --bg-color: #292d3e;
 }
 
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: #292d3e;
-  stroke: #ae81ce;
+  fill: var(--bg-color);
+  stroke: var(--title-color);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -27,13 +32,13 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: #ae81ce;
-  fill: #ae81ce;
+  color: var(--title-color);
+  fill: var(--title-color);
 }
 
 ul {
   list-style: none;
-  color: #a6accd;
+  color: var(--text-color);
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
@@ -62,7 +67,7 @@ div.ellipsis {
 }
 
 .octicon {
-  fill: #89ddff;
+  fill: var(--icon-color);
   margin-right: 0.5ch;
   vertical-align: top;
 }
@@ -71,25 +76,24 @@ div.ellipsis {
   display: flex;
   height: 8px;
   overflow: hidden;
-  background-color: #c792ea;
+  background-color: var(--title-color);
   border-radius: 6px;
   outline: 1px solid transparent;
   margin-bottom: 1em;
 }
 
 .progress-item {
-  outline: 2px solid #c792ea;
   border-collapse: collapse;
 }
 
 .lang {
   font-weight: 600;
   margin-right: 4px;
-  color: #a6accd;
+  color: var(--text-color);
 }
 
 .percent {
-  color: #a6accd
+  color: var(--text-color)
 }
 
 </style>
