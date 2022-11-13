@@ -1,24 +1,24 @@
-<svg id="gh-dark-mode-only" width="360" height="210" xmlns="http://www.w3.org/2000/svg">
+<svg width="360" height="210" xmlns="http://www.w3.org/2000/svg">
 <style>
 svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 14px;
   line-height: 21px;
+
+  --title-color: #c792ea;
+  --icon-color: #89ddff;
+  --text-color: #a6accd;
+  --bg-color: #292d3e;
 }
 
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
+  fill: var(--bg-color);
+  stroke: var(--title-color);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
-}
-
-#gh-dark-mode-only:target #background {
-  fill: #0d1117;
-  stroke-width: 0.5px;
 }
 
 foreignObject {
@@ -38,11 +38,7 @@ th {
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(3, 102, 214);
-}
-
-#gh-dark-mode-only:target th {
-  color: #58a6ff;
+  color: var(--title-color);
 }
 
 td {
@@ -51,11 +47,7 @@ td {
   padding: 0.25em;
   font-size: 12px;
   line-height: 18px;
-  color: rgb(88, 96, 105);
-}
-
-#gh-dark-mode-only:target td {
-  color: #c9d1d9;
+  color: var(--text-color);
 }
 
 tr {
@@ -64,13 +56,9 @@ tr {
 }
 
 .octicon {
-  fill: rgb(88, 96, 105);
+  fill: var(--icon-color);
   margin-right: 1ch;
   vertical-align: top;
-}
-
-#gh-dark-mode-only:target .octicon {
-  fill: #8b949e;
 }
 
 @keyframes slideIn {
