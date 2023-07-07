@@ -11,6 +11,6 @@
   <rect width="500" height="500" style="fill: url(#myGradient);"/>
 
   <image href="https://raw.githubusercontent.com/yunfachi/yunfachi/3520efa8e64755c0661d3c3b274e08fe0c99cf41/assets/terminal.svg" height="56%" width="56%"/>
-  <image href="terminal.svg" height="120%" width="56%"/>
-
+  <image href="./terminal.svg" height="120%" width="56%"/>
+  <image x="10" y="20" width="80" height="80" xlink:href="./terminal.svg"/>
 </svg>
