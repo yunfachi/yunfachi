@@ -1,5 +1,5 @@
 <p align=center style="padding:15px; background: linear-gradient(140deg, rgb(189, 227, 236), rgb(54, 54, 84)); border-radius: 15px">
-    <a href="https://yunfachi.dev">
+    <a href="https://yunfachi.github.io">
         <img src="https://yunfachi.github.io/static/cdn/img/bio.svg" width=45% x=-10px>
     </a>
     <a href="https://discord.com/users/553278836226129933">
