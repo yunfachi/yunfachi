@@ -1,9 +1,4 @@
-<p align=center style="padding:15px; background: linear-gradient(140deg, rgb(189, 227, 236), rgb(54, 54, 84)); border-radius: 15px">
-    <a href="https://yunfachi.github.io">
-        <img src="https://yunfachi.github.io/static/cdn/img/bio.svg" width=45% x=-10px>
-    </a>
-    <a href="https://discord.com/users/553278836226129933">
-        <img src="https://lanyard-profile-readme.vercel.app/api/553278836226129933?bg=151718" width=45%>
-    </a>
-    <img src="https://moe-counter.glitch.me/get/@yunfachi1?theme=rule34" width=35%>
-</p>
+<p align="center">
+    <img height="175px" src="https://streak-stats.demolab.com?user=yunfachi&hide_border=false&border_radius=0&border=0F0F0F&background=0F0F0F&ring=E0CCBE&stroke=0F0F0F&fire=E0CCBE&currStreakNum=E0CCBE&sideNums=E0CCBE&currStreakLabel=E0CCBE&sideLabels=E0CCBE&dates=E0CCBE&excludeDaysLabel=E0CCBE&hide_longest_streak=true&disable_animations=true&card_width=450"><img height="175px" src="https://lanyard-profile-readme.vercel.app/api/553278836226129933?bg=0F0F0F&borderRadius=0&hideProfile=true">
+    <img width="50%" src="assets/bio.svg"><img width="50%" src="https://moe-counter.glitch.me/get/@yunfachi1?theme=rule34">
+</center>
