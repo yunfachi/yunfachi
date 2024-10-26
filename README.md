@@ -8,7 +8,7 @@ Current projects: <a href="https://github.com/yunfachi/nix-config">nix-config</a
 Areas of interest: declarative programming, encoding, infosecurity, system
                    administration, full-stack engineering (because I'm greedy),
                    writing, static APIs and websites
-Experience: over 6.0 years  
+Experience: over 6.2 years  
 
 Website: <a href="https://yunfachi.github.io">yunfachi.github.io</a>
 Telegram: <a href="https://t.me/yunfachi">t.me/yunfachi</a></pre>
