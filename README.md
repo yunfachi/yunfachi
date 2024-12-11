@@ -10,7 +10,7 @@ Developer working on NixOS, Unicode enjoyer.
 
 Current projects: <a href="https://github.com/yunfachi/nix-config">nix-config</a>, <a href="https://github.com/yunfachi/denix">denix</a>, <a href="https://github.com/deshiro">deshiro</a>  
 Areas of interest: encoding, infosecurity, static APIs
-Experience: over 6.2 years  
+Experience: over 6.3 years  
 
 Website: <a href="https://yunfachi.github.io">yunfachi.github.io</a>
 Telegram: <a href="https://t.me/yunfachi">t.me/yunfachi</a></pre>
