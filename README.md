@@ -8,7 +8,7 @@
 
 Developer working on NixOS, Unicode enjoyer.
 
-Current projects: <a href="https://github.com/yunfachi/nix-config">nix-config</a>, <a href="https://github.com/yunfachi/denix">denix</a>, <a href="https://github.com/deshiro">deshiro</a>  
+Current projects: <a href="https://github.com/yunfachi/nix-config">nix-config</a>, <a href="https://github.com/yunfachi/denix">denix</a>, <a href="https://github.com/yunfachi/NixOwOS">NixOwOS</a>, <a href="https://github.com/yunfachi/nix-osu">nix-osu</a>, <a href="https://github.com/deshiro">deshiro</a>  
 Areas of interest: encoding, infosecurity, static APIs
 Experience: over 6.5 years  
 
