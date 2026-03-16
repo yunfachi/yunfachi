@@ -1,4 +1,4 @@
-Website: <a href="https://yunfachi.github.io">yunfachi.github.io</a>\
+Website: <a href="https://ynf.sh">ynf.sh</a>\
 Telegram: <a href="https://t.me/yunfachi">t.me/yunfachi</a>
 
 # Awesome Tall Car GIFs
